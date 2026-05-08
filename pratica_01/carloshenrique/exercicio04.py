@@ -1,4 +1,3 @@
-
 idade = int(input("Digite sua idade: "))
 experiencia = int(input("Digite seus anos de experiencia:"))
 

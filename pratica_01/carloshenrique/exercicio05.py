@@ -1,4 +1,3 @@
-
 mb = float(input("Digite o tamanho do arquivo (MB): "))
 mbps = float(input("Digite a velocidade da internet (Mbps): "))
 
